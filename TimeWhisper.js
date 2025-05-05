@@ -3,7 +3,7 @@ const fs = require("fs");
 const yaml = require("yaml");
 const { CronJob } = require("cron");
 
-const config = yaml.parse(fs.readFileSync('./addons/HeyMate/heymate.yml', 'utf8'));
+const config = yaml.parse(fs.readFileSync('./addons/TimeWhisper/TimeWhisper.yml', 'utf8'));
 const channelId = config.channel_id || "1116354701907206185";
 
 module.exports.run = (client) => {
