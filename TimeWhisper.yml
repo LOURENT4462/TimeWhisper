@@ -2,21 +2,21 @@ channel_id: "FILL WITH CHANNEL ID"
 
 messages:
   morning:
-    - "Selamat pagi! Semoga harimu menyenangkan! <:fn_senang2:1023574554565693521>"
-    - "Pagi semua! Jangan lupa sarapan ya! <:fn_senang2:1023574554565693521>"
-    - "Met pagi! Hari baru, semangat baru! <:fn_senang2:1023574554565693521>"
+    - "Selamat pagi! Semoga harimu menyenangkan!"
+    - "Pagi semua! Jangan lupa sarapan ya!"
+    - "Met pagi! Hari baru, semangat baru!"
 
   afternoon:
-    - "Selamat siang! Jangan lupa makan siang ya! <:fn_nyimak:1099614927322366084>"
-    - "Siang guyss~ Tetap semangat ya! <:fn_nyimak:1099614927322366084>"
-    - "Udah siang nih, istirahat bentar yuk! <:fn_nyimak:1099614927322366084>"
+    - "Selamat siang! Jangan lupa makan siang ya!"
+    - "Siang guyss~ Tetap semangat ya!"
+    - "Udah siang nih, istirahat bentar yuk!"
 
   evening:
-    - "Selamat sore! Semangat terus! <:fn_ngefans:1032274258941984778>"
-    - "Sore semuaa~ Udah waktunya santai sebentar~ <:fn_ngefans:1032274258941984778>"
-    - "Met sore smwaaa! <:fn_ngefans:1032274258941984778>"
+    - "Selamat sore! Semangat terus!"
+    - "Sore semuaa~ Udah waktunya santai sebentar~"
+    - "Met sore smwaaa!"
 
   night:
-    - "Selamat malam! Jangan lupa rehat dan isi energi untuk besok! <:fn_muah:1023574492158640209>"
-    - "Malam guyss~ waktunya bersantai! <:fn_muah:1023574492158640209>"
-    - "Good night semuanya! Mimpi indah yaa~ <:fn_muah:1023574492158640209>"
+    - "Selamat malam! Jangan lupa rehat dan isi energi untuk besok!"
+    - "Malam guyss~ waktunya bersantai!"
+    - "Good night semuanya! Mimpi indah yaa~"
